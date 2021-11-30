@@ -1,6 +1,6 @@
 Expressions:
 
-1. Write a program to find length distance between two points.
+1. Write a program to find distance between two points.
 
 Expressions and Functions:
 
@@ -10,6 +10,9 @@ weight = pi * stomach_raduius^3 * sqrt(height * length). using four functions an
 float input_radius();
 float input_heigth();
 float input_length();
+or
+void input_camel_details(float *radius, float *height, float *length)
+
 float find_weight(float radius, float height, float length);
 void output(float radius, float height, float length, float weight);
 and int main()
@@ -47,11 +50,10 @@ The formula for finding borga^x
 
 1 + x/3! + x^2/5! + x^3/7! .....
 
-stop when the next term is less 0.000001, With four functions - 5 marks.
-
+stop when the next term is less 0.000001, With four functions.
 
 Array processing
-With functions - 5 marks.
+With functions.
 use following function prototypes.
 void input(int n, int a[n]);
 float odd_average(int n, int a[n]);
@@ -62,7 +64,6 @@ Strings
 Write a program to find if the name of the camel is a nice name.
 Camels name is nice if it has at least 2 vowels and 2 consonants in it.
 with four functions - 5 marks. 
-
 
 Array of Structures
 
