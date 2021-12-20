@@ -52,8 +52,8 @@ The formula for finding borga^x
 
 stop when the next term is less 0.000001, With four functions.
 
-Array processing
-With functions.
+Array processing With functions.
+6.) Write a program to find the average of odd numbers
 use following function prototypes.
 void input(int n, int a[n]);
 float odd_average(int n, int a[n]);
@@ -61,13 +61,14 @@ void output(int n, int a[n]); /* print all the elements of the array and then th
 and main.
 
 Strings
-Write a program to find if the name of the camel is a nice name.
+
+7.) Write a program to find if the name of the camel is a nice name.
 Camels name is nice if it has at least 2 vowels and 2 consonants in it.
 with four functions - 5 marks. 
 
 Array of Structures
 
-Write program to find the weight of a truck load of n camels. 
+8.) Write program to find the weight of a truck load of n camels. 
 Take input 
 a)  truck weight and
 b)  height, radius and length of n camels
